@@ -1,0 +1,2 @@
+# WatchDogDirectorySortifier
+This py program uses watchdog library to keep a constant look (time.sleep(n)) for any new file downloaded or added on the source directory, and will transfer it to the destination directory. I modified the code to make it move all pdfs to a separate folders ( acc. to the subject ), this helps to not manually move all those assignments of different subjects automatically.  
